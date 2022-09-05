@@ -15,7 +15,7 @@ final h2 = TextStyle(
 );
 
 final h3 = TextStyle(
-  fontWeight: FontWeight.w500,
+  fontWeight: FontWeight.w400,
   fontSize: Dimensions.fontSizeLarge,
   color: kPrimaryTextColor,
 );
