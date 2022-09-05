@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:whatsapp_ui_demo/src/model/chat_data.dart';
 import 'package:whatsapp_ui_demo/src/utils/constants/app_constants.dart';
 import 'package:whatsapp_ui_demo/src/utils/constants/color.dart';
 import 'package:whatsapp_ui_demo/src/utils/constants/styles.dart';
